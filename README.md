@@ -1,4 +1,4 @@
-**# 💼 Sheeban Sheikh | Data Analyst Portfolio
+**Sheeban Sheikh | Data Analyst Portfolio**
 
 Welcome to my personal data analyst portfolio website. This site highlights my skills, projects, certifications, and professional journey in the world of data analysis.
 

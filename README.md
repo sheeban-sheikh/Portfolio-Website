@@ -4,13 +4,7 @@
 ---
 
 🔗 **Live Website:** [sheeban-portfolio.netlify.app](https://sheeban-portfolio.netlify.app/)  
----
 
-## 📸 Preview
-
-![Portfolio Preview](screenshot.png)
-
----
 
 ## 📂 Sections Covered
 
